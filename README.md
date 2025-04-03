@@ -18,6 +18,7 @@
 ## 🔹 Conclusion: Choosing the Right Locking Strategy 🚀
 
 
+---
 
 Imagine you and your friend are both trying to edit the same Google Doc at the same time. If you both make changes and save at the same time, one of you might accidentally overwrite the other’s changes. 
 
